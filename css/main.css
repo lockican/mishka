@@ -364,7 +364,7 @@ img {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-image: url(../../img/firstpage-mobile-bg.jpg);
+  background-image: url(../img/firstpage-mobile-bg.jpg);
   background-repeat: no-repeat;
   background-position: center -15px;
 }
@@ -411,7 +411,7 @@ img {
   top: 23px;
   width: 40px;
   height: 62px;
-  background: url(../../img/icon-interior.svg) no-repeat;
+  background: url(../img/icon-interior.svg) no-repeat;
   opacity: 0.5;
 }
 .first-page__right-block {
@@ -425,7 +425,7 @@ img {
   top: 21px;
   width: 60px;
   height: 60px;
-  background: url(../../img/icon-toy.svg);
+  background: url(../img/icon-toy.svg);
   opacity: 0.5;
 }
 .first-page--catalog-form {
@@ -447,7 +447,7 @@ img {
     -ms-flex-direction: column;
     flex-direction: column;
     background-color: #f9f9f9;
-    background-image: url(../../img/firstpage-tablet-bg.jpg);
+    background-image: url(../img/firstpage-tablet-bg.jpg);
   }
   .first-page::after {
     position: absolute;
@@ -455,7 +455,7 @@ img {
     bottom: 0;
     width: 100%;
     height: 9px;
-    background-image: url(../../img/bg-zigzag-fill.svg);
+    background-image: url(../img/bg-zigzag-fill.svg);
     background-repeat: repeat-x;
     background-size: auto 20px;
   }
@@ -592,7 +592,7 @@ img {
   bottom: 0;
   width: 100%;
   height: 6px;
-  background-image: url(../../img/bg-zigzag-line.svg);
+  background-image: url(../img/bg-zigzag-line.svg);
   background-repeat: repeat-x;
   background-size: auto 6px;
 }
@@ -751,7 +751,7 @@ img {
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url(../../img/bg-zigzag-line.svg);
+    background-image: url(../img/bg-zigzag-line.svg);
     background-repeat: repeat-x;
     background-size: auto;
     background-position: center;
@@ -939,7 +939,7 @@ img {
     position: relative;
     height: 457px;
     padding-bottom: 68px;
-    background-image: url(../../img/review.jpg);
+    background-image: url(../img/review.jpg);
     background-repeat: no-repeat;
     background-size: 45% 457px;
   }
@@ -949,7 +949,7 @@ img {
     bottom: 0;
     width: 100%;
     height: 15px;
-    background-image: url(../../img/bg-zigzag-line.svg);
+    background-image: url(../img/bg-zigzag-line.svg);
     background-repeat: repeat-x;
     background-size: auto 15px;
   }
@@ -1014,7 +1014,7 @@ img {
     position: relative;
     width: 1050px;
     height: auto;
-    background-image: url(../../img/review.jpg);
+    background-image: url(../img/review.jpg);
     background-repeat: no-repeat;
     background-size: contain;
   }
@@ -1025,7 +1025,7 @@ img {
     left: 0;
     width: 100%;
     height: 24px;
-    background-image: url(../../img/bg-zigzag-line.svg);
+    background-image: url(../img/bg-zigzag-line.svg);
     background-repeat: repeat-x;
     background-size: auto;
   }
@@ -1132,7 +1132,7 @@ img {
     right: 3px;
     width: 47px;
     height: 81px;
-    background-image: url(../../img/icon-flag.svg);
+    background-image: url(../img/icon-flag.svg);
     background-repeat: no-repeat;
   }
   .contacts__block-address {
@@ -1203,13 +1203,13 @@ img {
   -ms-flex-pack: end;
   justify-content: flex-end;
   height: 587px;
-  background-image: url(../../img/map-mobile.jpg);
+  background-image: url(../img/map-mobile.jpg);
   background-position: top;
   background-repeat: no-repeat;
 }
 @media (min-width: 768px) {
   .map {
-    background-image: url(../../img/map-tablet.jpg);
+    background-image: url(../img/map-tablet.jpg);
     height: 621px;
   }
 }
@@ -1749,7 +1749,7 @@ img {
   right: 4px;
   width: 32px;
   height: 32px;
-  background-image: url(../../img/icon-mail.svg);
+  background-image: url(../img/icon-mail.svg);
   opacity: 0.2;
 }
 .form__phone {
@@ -1762,7 +1762,7 @@ img {
   right: 8px;
   width: 25px;
   height: 25px;
-  background-image: url(../../img/icon-phone.svg);
+  background-image: url(../img/icon-phone.svg);
   opacity: 0.2;
 }
 .form__input-radio:checked + label::after {
@@ -1792,7 +1792,7 @@ img {
   left: -55px;
   width: 40px;
   height: 39px;
-  background-image: url(../../img/icon-tick.svg);
+  background-image: url(../img/icon-tick.svg);
   background-repeat: no-repeat;
 }
 .form__name,
